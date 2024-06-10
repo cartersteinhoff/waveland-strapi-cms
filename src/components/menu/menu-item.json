@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_menu_menu_items",
+  "info": {
+    "name": "menu-item",
+    "icon": "link"
+  },
+  "options": {},
+  "attributes": {
+    "label": {
+      "type": "string",
+      "required": true
+    },
+    "link": {
+      "type": "string",
+      "required": true
+    },
+    "order": {
+      "type": "integer"
+    }
+  }
+}
